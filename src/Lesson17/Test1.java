@@ -1,12 +1,12 @@
 package Lesson17;
 
 public class Test1 {
-    public static void main(String[] args) {
+    public static   void main(String[] args) {
         StringBuilder sb1 = new StringBuilder();// pervonachalnaya vmestimost 16 simvolov po defoltu
         StringBuilder sb2 = new StringBuilder("Good day!!!");
         StringBuilder sb3 = new StringBuilder(50); //vmestimost 50
         StringBuilder sb4 = new StringBuilder(sb2);
-
+//xcsazxz
         System.out.println(sb2.length());
         System.out.println(sb3.length());
 
