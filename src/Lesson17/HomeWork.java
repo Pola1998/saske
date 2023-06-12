@@ -1,7 +1,7 @@
 package Lesson17;
 
 public class HomeWork {
-    public static void main(String[] args) {
+    public static   void main(String[] args) {
         StringBuilder sb1 = new StringBuilder();
         StringBuilder sb2 = new StringBuilder();
 
